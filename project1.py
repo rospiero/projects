@@ -21,3 +21,5 @@ def convert_g_to_k(c):
 kilograms=convert_g_to_k(gr)
 
 print("in kilograms it is: ", kilograms)
+
+print("thanks")
