@@ -3,7 +3,7 @@
 # *Bonus: Do both in the same function. Using a parameter "kgtog" - kilo to
 # Gram or "gtokg" - gram to kilo.
 #
-c=float(input('Enter kilograms '))
+c=float(input('Hello, Enter kilograms to convert in grams'))
 
 def convert_k_to_g(c):
     return c * 1000
