@@ -1,4 +1,4 @@
-#6 small apps
+#7 small apps
 
 Here you will find:
 Boxplot print a small boxplot; 
@@ -7,4 +7,5 @@ euclidean distance is a calculator for finding the euclidean distance
 combinatore will combine 2 pdf together 
 fileconverter will transform a jpg into a txt and viceversa 
 Caesar a caesar cypher, very easy to use
+Pands is only an exercise made to create df 
 enjoy!
